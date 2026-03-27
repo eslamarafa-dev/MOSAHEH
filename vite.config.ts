@@ -10,7 +10,7 @@ const __dirname = path.dirname(__filename);
 
 export default defineConfig({
   // أضف هذا السطر هنا (استبدل landing-page باسم المستودع لديك)
-  base: "/landing-page/", 
+  base: "/MOSAHEH/",
   plugins: [react(), tailwindcss(), viteSingleFile()],
   resolve: {
     alias: {
